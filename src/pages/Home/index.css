@@ -1,0 +1,19 @@
+.home-page {
+    padding: 20px;
+  }
+  
+  .discover {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .discover h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  .discover p {
+    font-size: 1em;
+    color: #555;
+  }
+  
